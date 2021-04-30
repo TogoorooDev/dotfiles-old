@@ -1,0 +1,31 @@
+00:00:00.473227 VirtualBox GUI VM Selector Window 6.1.18 r142142 linux.amd64 (Feb 16 2021 07:45:49) release log
+00:00:00.473229 Log opened 2021-03-14T21:44:27.245214000Z
+00:00:00.473229 Build Type: release
+00:00:00.473231 OS Product: Linux
+00:00:00.473232 OS Release: 5.11.6-AMD
+00:00:00.473233 OS Version: #1 SMP PREEMPT Thu Mar 11 15:24:37 CET 2021
+00:00:00.473249 DMI Product Name: Inspiron 7375
+00:00:00.473255 DMI Product Version: 1.5.0
+00:00:00.473258 Firmware type: UEFI
+00:00:00.473551 Secure Boot: Disabled
+00:00:00.473607 Host RAM: 7600MB (7.4GB) total, 7184MB (7.0GB) available
+00:00:00.473611 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.473611 Process ID: 17630
+00:00:00.473612 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.473660 Qt version: 5.15.2
+00:00:00.552877 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.174859 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x34 x 1914x517
+00:00:01.175005 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:08.788031 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:45.884039 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:08.147424 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:39.661824 GUI: UIMediumEnumerator: Medium with key={{ea136f47-a3c9-42e9-b297-b38caae1b594}} created
+00:08:39.673810 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:43.522397 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:43.531939 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:28:55.795294 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:29.797158 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:30.450296 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:30:39.821589 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:30:39.869004 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:35:55.922092 GUI: UIMediumEnumerator: Medium-enumeration finished!
