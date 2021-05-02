@@ -23,6 +23,9 @@ alias ls="exa"
 alias la="exa -a"
 alias ll="exa -l"
 alias lla="exa -a -l"
+alias emacs="emacs -nw"
+alias esync="~/.emacs.d/bin/doom sync"
+alias inst="sudo pacman -S"
 
 #Autocomplete
 #The following lines were added by compinstall
@@ -37,3 +40,6 @@ zstyle :compinstall filename '/home/luna/.zshrc'
 autoload -Uz compinit
 compinit
 #End of lines added by compinstall
+
+#Variables
+PAGER=most

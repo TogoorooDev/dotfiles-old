@@ -1,0 +1,6 @@
+2021/04/16-18:42:06.232 114fe Creating DB /home/luna/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb since it was missing.
+2021/04/16-18:42:06.237 114fe Reusing MANIFEST /home/luna/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/16-18:43:02.549 114fe Level-0 table #5: started
+2021/04/16-18:43:02.551 114fe Level-0 table #5: 1262 bytes OK
+2021/04/16-18:43:02.553 114fe Delete type=0 #3
+2021/04/16-18:43:02.553 114fe Manual compaction at level-0 from (begin) .. (end); will stop at (end)

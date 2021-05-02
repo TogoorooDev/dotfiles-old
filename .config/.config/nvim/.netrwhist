@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/luna/software/CSec Base Test'
+let g:netrw_dirhist_9='/home/luna/School'
+let g:netrw_dirhist_8='/home/luna/.config/nvim'
+let g:netrw_dirhist_7='/home/luna/.config/herbstluftwm'
+let g:netrw_dirhist_6='/home/luna/.config'
+let g:netrw_dirhist_5='/home/luna/.config/herbstluftwm'
+let g:netrw_dirhist_4='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_3='/home/luna/.config/herbstluftwm'
+let g:netrw_dirhist_2='/home/luna/.config/polybar/forest'
+let g:netrw_dirhist_1='/home/luna/.config/herbstluftwm'
