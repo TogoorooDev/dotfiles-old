@@ -1,0 +1,71 @@
+**** BEGIN LOGGING AT Mon May  3 00:08:26 2021
+
+May 03 00:08:26 *	*** Looking up your hostname...
+May 03 00:08:26 *	*** Checking Ident
+May 03 00:08:26 *	*** Couldn't look up your hostname
+May 03 00:08:27 *	*** No Ident response
+May 03 00:08:27 *	Capabilities supported: away-notify chghost invite-notify multi-prefix sasl userhost-in-names
+May 03 00:08:27 *	Capabilities requested: away-notify chghost multi-prefix userhost-in-names 
+May 03 00:08:27 *	Capabilities acknowledged: away-notify chghost multi-prefix userhost-in-names
+May 03 00:08:29 *	*** Connected securely via TLSv1.3 TLS_AES_256_GCM_SHA384-256
+May 03 00:08:29 *	*** Your host is masked (7201469B:8AC0BF08:45CF0320:IP)
+**** ENDING LOGGING AT Mon May  3 00:08:29 2021
+
+**** BEGIN LOGGING AT Mon May  3 00:08:29 2021
+
+May 03 00:08:29 *	Welcome to the Rizon Internet Relay Chat Network Togooroo
+May 03 00:08:29 *	Your host is irc2.rizon.io, running version plexus-4(hybrid-8.1.20)
+May 03 00:08:29 *	This server was created Mar 25 2021 at 18:47:44
+May 03 00:08:29 *	irc2.rizon.io plexus-4(hybrid-8.1.20) CDGNRSUWagilopqrswxyz BCIMNORSabcehiklmnopqstvz Iabehkloqv
+May 03 00:08:29 *	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(qaohv)~&@%+ STATUSMSG=~&@%+ EXCEPTS=e INVEX=I NICKLEN=30 NETWORK=Rizon MAXLIST=beI:250 MAXTARGETS=4 :are supported by this server
+May 03 00:08:29 *	CHANTYPES=# CHANLIMIT=#:250 CHANNELLEN=50 TOPICLEN=390 CHANMODES=beI,k,l,BCMNORScimnpstz WATCH=60 ELIST=CMNTU SAFELIST NAMESX UHNAMES AWAYLEN=180 KNOCK :are supported by this server
+May 03 00:08:29 *	There are 22 users and 12022 invisible on 16 servers
+May 03 00:08:29 *	56 :IRC Operators online
+May 03 00:08:29 *	1 :unknown connection(s)
+May 03 00:08:29 *	9117 :channels formed
+May 03 00:08:29 *	I have 12044 clients and 16 servers
+May 03 00:08:29 *	Current local users: 12044  Max: 13088
+May 03 00:08:29 *	Current global users: 12044  Max: 13088
+May 03 00:08:29 *	- irc2.rizon.io Message of the Day - 
+May 03 00:08:29 *	-          oo                            
+May 03 00:08:29 *	- 
+May 03 00:08:29 *	- 88d888b. dP d888888b .d8888b. 88d888b. 
+May 03 00:08:29 *	- 88'  `88 88    .d8P' 88'  `88 88'  `88 
+May 03 00:08:29 *	- 88       88  .Y8P    88.  .88 88    88 
+May 03 00:08:29 *	- dP       dP d888888P `88888P' dP    dP
+May 03 00:08:29 *	- 
+May 03 00:08:29 *	- Rizon Chat Network -- http://rizon.net
+May 03 00:08:29 *	- 
+May 03 00:08:29 *	- Listening on ports: 6660 - 6669, 7000. SSL: 6697, 9999
+May 03 00:08:29 *	- 
+May 03 00:08:29 *	- Rules:
+May 03 00:08:29 *	- o No spamming or flooding
+May 03 00:08:29 *	- o No clones or malicious bots
+May 03 00:08:29 *	- o No takeovers
+May 03 00:08:29 *	- o No distribution of child pornography
+May 03 00:08:29 *	- o Clients must respond to VERSION requests
+May 03 00:08:29 *	- o Rizon staff may disconnect clients for any or no reason
+May 03 00:08:29 *	- 
+May 03 00:08:29 *	- First steps:
+May 03 00:08:29 *	- o To register your nick: /msg NickServ HELP
+May 03 00:08:29 *	- o To register your channel: /msg ChanServ HELP
+May 03 00:08:29 *	- o To get a vHost: /msg HostServ HELP REQUEST
+May 03 00:08:29 *	- o For other help with Rizon: /join #help
+May 03 00:08:29 *	- 
+May 03 00:08:29 *	- Usage of this network is a privilege, not a right. Rizon is a
+May 03 00:08:29 *	- transit provider, therefore no person or entity involved with
+May 03 00:08:29 *	- *.rizon.net or irc2.rizon.io takes any responsibility for
+May 03 00:08:29 *	- users' actions. Absolutely no warranty is expressed or implied.
+May 03 00:08:29 *	End of /MOTD command.
+May 03 00:08:29 *	Togooroo sets mode +S on Togooroo
+May 03 00:08:29 *	Togooroo sets mode +i on Togooroo
+May 03 00:08:29 *	Togooroo sets mode +x on Togooroo
+May 03 00:08:29 -Global-	[Logon News - May 21 2011] First time on Rizon? Be sure to read the FAQ! http://s.rizon.net/FAQ
+May 03 00:08:29 -Global-	[Logon News - Dec 16 2013] Own a large/active channel or plan to get one going? Please read http://s.rizon.net/authline
+May 03 00:08:29 -Global-	[Random News - May 07 2013] Looking for a quotes, trivia, or other extra bots? /msg funserv help
+May 03 00:08:29 *	Received a CTCP VERSION from py-ctcp
+May 03 00:09:40 Checksum plugin unloaded
+May 03 00:09:40 Perl interface unloaded
+May 03 00:09:40 Sysinfo plugin unloaded
+**** ENDING LOGGING AT Mon May  3 00:09:40 2021
+

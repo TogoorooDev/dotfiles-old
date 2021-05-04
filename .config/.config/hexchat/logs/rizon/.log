@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Mon May  3 00:08:25 2021
+
+May 03 00:08:25 *	Connecting to vy3wrwzsrjmabk4k6ytmf46tjhukzmjevkkb354uya.map.rizon.net (2602:fd9a:a:b::10:6697)
+May 03 00:08:26 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+May 03 00:08:26 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+May 03 00:08:26 *	* Subject: /C=US/O=Let's Encrypt/CN=R3
+May 03 00:08:26 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+May 03 00:08:26 *	* Subject: /CN=irc.rizon.net
+May 03 00:08:26 *	* Issuer: /C=US/O=Let's Encrypt/CN=R3
+May 03 00:08:26 *	* Certification info:
+May 03 00:08:26 *	  Subject:
+May 03 00:08:26 *	    CN=irc.rizon.net
+May 03 00:08:26 *	  Issuer:
+May 03 00:08:26 *	    C=US
+May 03 00:08:26 *	    O=Let's Encrypt
+May 03 00:08:26 *	    CN=R3
+May 03 00:08:26 *	  Public key algorithm: rsaEncryption (4096 bits)
+May 03 00:08:26 *	  Sign algorithm sha256WithRSAEncryption
+May 03 00:08:26 *	  Valid since Apr  4 16:26:59 2021 GM to Jul  3 16:26:59 2021 GM
+May 03 00:08:26 *	* Cipher info:
+May 03 00:08:26 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+May 03 00:08:26 *	Connected. Now logging in.

@@ -10,10 +10,10 @@
     <tag>round</tag>
   </resource>
 
-  <resource identifier="gimp-brush-clipboard-image" checksum="9987e8c179059e8f47eb8ee121785e4a">
+  <resource identifier="gimp-brush-clipboard-image" checksum="157dcef48665ab465439cfaf10d6feeb">
   </resource>
 
-  <resource identifier="gimp-brush-clipboard-mask" checksum="7aa0a2a942da646f0846862fec759bd6">
+  <resource identifier="gimp-brush-clipboard-mask" checksum="157dcef48665ab465439cfaf10d6feeb">
   </resource>
 
   <resource identifier="${gimp_data_dir}/brushes/Basic/1-pixel.vbr" checksum="c84494b4a904a7c1a3548e564b073ca3">
@@ -772,7 +772,7 @@
   <resource identifier="${mypaint_brushes_dir}/ramon/wet_round.myb" checksum="038abfe33947692f773e0244d2ac7fc1">
   </resource>
 
-  <resource identifier="gimp-pattern-clipboard-image" checksum="dbd6e0722535d525a9cdb3c23132eab5">
+  <resource identifier="gimp-pattern-clipboard-image" checksum="eff9598f9f61c1dc78d842f1798c2ab8">
   </resource>
 
   <resource identifier="${gimp_data_dir}/patterns/Legacy/3dgreen.pat" checksum="00052731f14a5bc614daece969b368bc">
@@ -1303,6 +1303,237 @@
   <resource identifier="${gimp_data_dir}/palettes/Web.gpl" checksum="f02e8dfa23d01d6acfbab7f895c2dd16">
   </resource>
 
+  <resource identifier="4Q416 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="4Q417 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="4Q418" checksum="(null)">
+  </resource>
+
+  <resource identifier="Abyssinica SIL" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Blank" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Courier" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Courier Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Courier Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Courier Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Helvetica" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Helvetica Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Helvetica Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Helvetica Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe New Century Schoolbook" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe New Century Schoolbook Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe New Century Schoolbook Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe New Century Schoolbook Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Times" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Times Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Times Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Times Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Utopia" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Utopia Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Utopia Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Adobe Utopia Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Aegyptus Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Aegyptus Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Aharoni CLM" checksum="(null)">
+  </resource>
+
+  <resource identifier="Aharoni CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Aharoni CLM Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Aharoni CLM Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Akkadian Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Alef" checksum="(null)">
+  </resource>
+
+  <resource identifier="Alef Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="all-the-icons" checksum="(null)">
+  </resource>
+
+  <resource identifier="Amatica SC" checksum="(null)">
+  </resource>
+
+  <resource identifier="Amatica SC" checksum="(null)">
+  </resource>
+
+  <resource identifier="Amatic SC" checksum="(null)">
+  </resource>
+
+  <resource identifier="Amatic SC Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Amiri" checksum="(null)">
+  </resource>
+
+  <resource identifier="Amiri Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Amiri Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Amiri Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Amiri Quran" checksum="(null)">
+  </resource>
+
+  <resource identifier="Amiri Quran Colored" checksum="(null)">
+  </resource>
+
+  <resource identifier="Analecta" checksum="(null)">
+  </resource>
+
+  <resource identifier="Anatolian" checksum="(null)">
+  </resource>
+
+  <resource identifier="Andika" checksum="(null)">
+  </resource>
+
+  <resource identifier="Anka CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Anka CLM Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Arimo" checksum="(null)">
+  </resource>
+
+  <resource identifier="Arimo Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Arimo Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Arimo Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Asakim" checksum="(null)">
+  </resource>
+
+  <resource identifier="Assistant" checksum="(null)">
+  </resource>
+
+  <resource identifier="Assistant Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Assistant Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Assistant Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Assistant Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Assistant weight=275" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bellefair" checksum="(null)">
+  </resource>
+
+  <resource identifier="BenOr Rashi" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H Lucida Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H Lucida Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H LucidaBright" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H LucidaBright Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H Lucida Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H Lucida Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H LucidaTypewriter Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="B&amp;H LucidaTypewriter Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bitstream Charter" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bitstream Charter Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bitstream Charter Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bitstream Charter Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bitstream Terminal" checksum="(null)">
+  </resource>
+
+  <resource identifier="Bitstream Terminal Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="C059" checksum="(null)">
   </resource>
 
@@ -1313,6 +1544,9 @@
   </resource>
 
   <resource identifier="C059 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Caladings CLM" checksum="(null)">
   </resource>
 
   <resource identifier="Cantarell" checksum="(null)">
@@ -1342,7 +1576,130 @@
   <resource identifier="Cantarell Ultra-Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Cardo" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cardo Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cardo Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Carmela" checksum="(null)">
+  </resource>
+
+  <resource identifier="Carmela Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Carmelit" checksum="(null)">
+  </resource>
+
+  <resource identifier="Carmelit Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Charis SIL" checksum="(null)">
+  </resource>
+
+  <resource identifier="Charis SIL Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Charis SIL Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Charis SIL Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="CJHebLSm Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="CJHebLtx Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comic Neue" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comic Neue Angular" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comic Neue Angular Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comic Neue Angular Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comic Neue Angular Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comic Neue Angular Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comic Neue Angular Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comic Neue Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comic Neue Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comic Neue Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comic Neue Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comic Neue Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comix No2 CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Comix No2 CLM Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cousine" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cousine Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cousine Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cousine Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Cryptic A - Haifa Uni" checksum="(null)">
+  </resource>
+
   <resource identifier="D050000L" checksum="(null)">
+  </resource>
+
+  <resource identifier="David CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="David CLM Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="David CLM Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="David CLM Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="David Libre" checksum="(null)">
+  </resource>
+
+  <resource identifier="David Libre Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="David Libre Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="DEC Terminal" checksum="(null)">
+  </resource>
+
+  <resource identifier="DEC Terminal Bold" checksum="(null)">
   </resource>
 
   <resource identifier="DejaVu Math TeX Gyre" checksum="(null)">
@@ -1411,13 +1768,148 @@
   <resource identifier="DejaVu Serif Semi-Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="Dorian CLM" checksum="(null)">
+  </resource>
+
+  <resource identifier="Dorian CLM Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Doulos SIL" checksum="(null)">
+  </resource>
+
+  <resource identifier="Dragon" checksum="(null)">
+  </resource>
+
   <resource identifier="Droid Sans" checksum="(null)">
+  </resource>
+
+  <resource identifier="Drugulin CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Drugulin CLM Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ellinia CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ellinia CLM Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ellinia CLM Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ellinia CLM Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ezra SIL" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ezra SIL SR" checksum="(null)">
   </resource>
 
   <resource identifier="Fantasque Sans Mono" checksum="(null)">
   </resource>
 
   <resource identifier="feather" checksum="(null)">
+  </resource>
+
+  <resource identifier="felix007" checksum="(null)">
+  </resource>
+
+  <resource identifier="file-icons" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Semi-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Semi-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraGO Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="FontAwesome" checksum="(null)">
   </resource>
 
   <resource identifier="Font Awesome 5 Brands" checksum="(null)">
@@ -1427,6 +1919,39 @@
   </resource>
 
   <resource identifier="Font Awesome 5 Free Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Frank CurledLamed Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Frank Ruehl CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Frank Ruehl CLM Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Frank Ruehl CLM Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Frank Ruehl CLM Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Frank Ruhl Libre" checksum="(null)">
+  </resource>
+
+  <resource identifier="Frank Ruhl Libre Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Frank Ruhl Libre Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Frank Ruhl Libre Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Frank Ruhl Libre Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Fredoka One" checksum="(null)">
   </resource>
 
   <resource identifier="FreeMono" checksum="(null)">
@@ -1465,6 +1990,48 @@
   <resource identifier="FreeSerif Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Gan CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Gardiner Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Gentium" checksum="(null)">
+  </resource>
+
+  <resource identifier="GentiumAlt" checksum="(null)">
+  </resource>
+
+  <resource identifier="GentiumAlt Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Gentium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Gentium Plus" checksum="(null)">
+  </resource>
+
+  <resource identifier="Gentium Plus Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Gidole" checksum="(null)">
+  </resource>
+
+  <resource identifier="Gidolinya" checksum="(null)">
+  </resource>
+
+  <resource identifier="github-octicons" checksum="(null)">
+  </resource>
+
+  <resource identifier="Gladia CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="GoddessSymbols" checksum="(null)">
+  </resource>
+
+  <resource identifier="Gveret Levin AlefAlefAlef" checksum="(null)">
+  </resource>
+
   <resource identifier="Hack" checksum="(null)">
   </resource>
 
@@ -1477,10 +2044,88 @@
   <resource identifier="Hack Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Hadasim CLM" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hadasim CLM Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hadasim CLM Bold Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hadasim CLM Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hananiah" checksum="(null)">
+  </resource>
+
   <resource identifier="HAN NOM A" checksum="(null)">
   </resource>
 
   <resource identifier="HAN NOM B" checksum="(null)">
+  </resource>
+
+  <resource identifier="hasida Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hebrew Samaritan Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Heebo" checksum="(null)">
+  </resource>
+
+  <resource identifier="Heebo Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Heebo Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Heebo Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Heebo Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Heebo Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Heebo weight=250" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hillel CLM Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hillel CLM Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Horev CLM Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Horev CLM Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="IBM Plex Sans Hebrew weight=450" checksum="(null)">
   </resource>
 
   <resource identifier="icomoon-feather" checksum="(null)">
@@ -1705,6 +2350,93 @@
   <resource identifier="Iosevka" checksum="(null)">
   </resource>
 
+  <resource identifier="Journal CLM Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Journal CLM Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Judson Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Judson Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Judson Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Judson Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Keter Aram Tsova Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Keter YG Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Keter YG Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Keter YG Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Keter YG Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Battambang" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Bokor" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Content" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Fasthand" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Freehand" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Metal Chrieng" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Muol" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Muol Light," checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Muol Pali" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS Siemreap" checksum="(null)">
+  </resource>
+
+  <resource identifier="Khmer OS System" checksum="(null)">
+  </resource>
+
+  <resource identifier="ktav Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="ktav Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ktav Yad CLM Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ktav Yad CLM Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LastResort" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lateef" checksum="(null)">
+  </resource>
+
   <resource identifier="Liberation Mono" checksum="(null)">
   </resource>
 
@@ -1747,10 +2479,151 @@
   <resource identifier="Ligconsolata Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Linux Biolinum" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Biolinum Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Biolinum Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Biolinum Keyboard Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Biolinum Keyboard O Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Biolinum O" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Biolinum O Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Biolinum O Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Biolinum Outline" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Biolinum Shadow" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine Display" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine Display O" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine Initials" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine Initials O" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine Mono O" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine O" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine O Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine O Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine O Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine O Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine O Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Linux Libertine Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Looks Like S&apos;pht" checksum="(null)">
+  </resource>
+
+  <resource identifier="Makabi YG Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mashkit Medium" checksum="(null)">
+  </resource>
+
   <resource identifier="Material" checksum="(null)">
   </resource>
 
   <resource identifier="Material-Design-Iconic-Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Material Icons" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mekorot-Rashi Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mekorot-Vilna Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mekorot-Vilna Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mekorot-Vilna Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mekorot-Vilna Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="MigdalHaemeq Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Miriam CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Miriam CLM Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Miriam Libre" checksum="(null)">
+  </resource>
+
+  <resource identifier="Miriam Libre Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Miriam Mono CLM" checksum="(null)">
+  </resource>
+
+  <resource identifier="Miriam Mono CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Miriam Mono CLM Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Miriam Mono CLM Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Miri Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Monospace" checksum="(null)">
@@ -1763,6 +2636,48 @@
   </resource>
 
   <resource identifier="Monospace Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mplus 1p" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mplus 1p Black, Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mplus 1p Bold, Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mplus 1p ExtraBold, Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mplus 1p Light, Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mplus 1p Medium, Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mplus 1p Thin, weight=250" checksum="(null)">
+  </resource>
+
+  <resource identifier="Musica" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nachlaot" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nachlieli CLM Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nachlieli CLM Light Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nachlieli CLM Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nachlieli CLM Semi-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Nehama" checksum="(null)">
   </resource>
 
   <resource identifier="Nimbus Mono PS" checksum="(null)">
@@ -1811,6 +2726,9 @@
   </resource>
 
   <resource identifier="Nimbus Sans Narrow Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noot" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Kufi Arabic" checksum="(null)">
@@ -2371,16 +3289,106 @@
   <resource identifier="Noto Sans Ethiopic Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Ethiopic Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Ethiopic Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Heavy Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Ethiopic Light" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Ethiopic Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Light Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Ethiopic Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Ethiopic Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Ethiopic Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ethiopic Ultra-Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Georgian" checksum="(null)">
@@ -3613,16 +4621,106 @@
   <resource identifier="Noto Serif Hebrew Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif Hebrew Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif Hebrew Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Heavy Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Hebrew Light" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif Hebrew Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Light Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif Hebrew Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif Hebrew Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Semi-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif Hebrew Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Hebrew Ultra-Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Hmong Nyiakeng" checksum="(null)">
@@ -3874,6 +4972,42 @@
   <resource identifier="Noto Traditional Nushu" checksum="(null)">
   </resource>
 
+  <resource identifier="OmegaSerifHebrew Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Hebrew" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Hebrew Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Hebrew Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Hebrew Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Hebrew Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Hebrew Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Hebrew Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Open Sans Hebrew Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="OSP_Le-patin-helvete" checksum="(null)">
+  </resource>
+
+  <resource identifier="OSP_Le-patin-helvete Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ozrad CLM Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="P052" checksum="(null)">
   </resource>
 
@@ -3884,6 +5018,72 @@
   </resource>
 
   <resource identifier="P052 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Paskol Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pfennig Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pfennig Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pfennig Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Pfennig Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="PtilNarrow" checksum="(null)">
+  </resource>
+
+  <resource identifier="PtilNarrow Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="PtilWide" checksum="(null)">
+  </resource>
+
+  <resource identifier="PtilWide Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Raidho Theodings" checksum="(null)">
+  </resource>
+
+  <resource identifier="Refoyl Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Retro Perspective" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rubik" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rubik Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rubik Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rubik Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rubik Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rubik Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rubik Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rubik Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rubik Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Rubik Medium Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Sans-serif" checksum="(null)">
@@ -3898,6 +5098,12 @@
   <resource identifier="Sans-serif Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Scheherazade" checksum="(null)">
+  </resource>
+
+  <resource identifier="Secular One" checksum="(null)">
+  </resource>
+
   <resource identifier="Serif" checksum="(null)">
   </resource>
 
@@ -3908,6 +5114,90 @@
   </resource>
 
   <resource identifier="Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="ShArpie Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shlomo" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shlomo Bold," checksum="(null)">
+  </resource>
+
+  <resource identifier="Shlomo LB" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shlomo semiStam" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shlomo Stam" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shmulik CLM" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shofar Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shofar Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shofar Semi-Bold Oblique Semi-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shofar Semi-Bold Semi-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shuneet" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shuneet Book," checksum="(null)">
+  </resource>
+
+  <resource identifier="Shuneet Classic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shuneet Classic Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shuneet Demi" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shuneet Heavy," checksum="(null)">
+  </resource>
+
+  <resource identifier="Shuneet Light," checksum="(null)">
+  </resource>
+
+  <resource identifier="Shuneet Medium," checksum="(null)">
+  </resource>
+
+  <resource identifier="Shuneet Oblique," checksum="(null)">
+  </resource>
+
+  <resource identifier="Shuneet Oblique, Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shuneet Square" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shuneet Square Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Shuneet Thin," checksum="(null)">
+  </resource>
+
+  <resource identifier="Simple CLM" checksum="(null)">
+  </resource>
+
+  <resource identifier="Simple CLM Bold Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Simple CLM Bold Oblique Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Simple CLM Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="Source Code Pro" checksum="(null)">
@@ -4018,7 +5308,7 @@
   <resource identifier="Source Han Sans CN Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Han Sans CN Semi-Bold" checksum="(null)">
+  <resource identifier="Source Han Sans CN Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Sans CN Semi-Light" checksum="(null)">
@@ -4039,7 +5329,7 @@
   <resource identifier="Source Han Sans HC Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Han Sans HC Semi-Bold" checksum="(null)">
+  <resource identifier="Source Han Sans HC Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Sans HC Semi-Light" checksum="(null)">
@@ -4093,7 +5383,7 @@
   <resource identifier="Source Han Sans K Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Han Sans K Semi-Bold" checksum="(null)">
+  <resource identifier="Source Han Sans K Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Sans K Semi-Light" checksum="(null)">
@@ -4103,6 +5393,9 @@
   </resource>
 
   <resource identifier="Source Han Sans Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Source Han Sans Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Sans SC" checksum="(null)">
@@ -4117,16 +5410,13 @@
   <resource identifier="Source Han Sans SC Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Han Sans SC Semi-Bold" checksum="(null)">
+  <resource identifier="Source Han Sans SC Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Sans SC Semi-Light" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Sans SC weight=250" checksum="(null)">
-  </resource>
-
-  <resource identifier="Source Han Sans Semi-Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Sans Semi-Light" checksum="(null)">
@@ -4144,7 +5434,7 @@
   <resource identifier="Source Han Sans TC Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Han Sans TC Semi-Bold" checksum="(null)">
+  <resource identifier="Source Han Sans TC Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Sans TC Semi-Light" checksum="(null)">
@@ -4165,7 +5455,7 @@
   <resource identifier="Source Han Sans TW Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Han Sans TW Semi-Bold" checksum="(null)">
+  <resource identifier="Source Han Sans TW Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Sans TW Semi-Light" checksum="(null)">
@@ -4195,7 +5485,7 @@
   <resource identifier="Source Han Serif CN Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Han Serif CN Semi-Bold" checksum="(null)">
+  <resource identifier="Source Han Serif CN Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Serif CN Semi-Bold" checksum="(null)">
@@ -4219,7 +5509,7 @@
   <resource identifier="Source Han Serif K Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Han Serif K Semi-Bold" checksum="(null)">
+  <resource identifier="Source Han Serif K Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Serif K Semi-Bold" checksum="(null)">
@@ -4246,7 +5536,7 @@
   <resource identifier="Source Han Serif SC Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Han Serif SC Semi-Bold" checksum="(null)">
+  <resource identifier="Source Han Serif SC Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Serif SC Semi-Bold" checksum="(null)">
@@ -4270,7 +5560,7 @@
   <resource identifier="Source Han Serif TC Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Source Han Serif TC Semi-Bold" checksum="(null)">
+  <resource identifier="Source Han Serif TC Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Source Han Serif TC Semi-Bold" checksum="(null)">
@@ -4282,16 +5572,112 @@
   <resource identifier="Source Han Serif weight=250" checksum="(null)">
   </resource>
 
+  <resource identifier="Squarish Sans CT" checksum="(null)">
+  </resource>
+
+  <resource identifier="Squarish Sans CT" checksum="(null)">
+  </resource>
+
+  <resource identifier="Stam Ashkenaz CLM Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Stam Sefarad CLM Medium" checksum="(null)">
+  </resource>
+
   <resource identifier="Standard Symbols PS" checksum="(null)">
   </resource>
 
+  <resource identifier="Stopmotion" checksum="(null)">
+  </resource>
+
+  <resource identifier="Suez One" checksum="(null)">
+  </resource>
+
   <resource identifier="Symbola Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Taamey Ashkenaz Bold Italic Semi-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Taamey Ashkenaz Bold Semi-Expanded" checksum="(null)">
+  </resource>
+
+  <resource identifier="Taamey Ashkenaz Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Taamey Ashkenaz Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Taamey David CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Taamey David CLM Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Taamey David CLM Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Taamey David CLM Medium Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Taamey Frank CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Taamey Frank CLM Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Taamey Frank CLM Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Taamey Frank CLM Medium Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="Terminus Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Terminus Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tinos" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tinos Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tinos Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tinos Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tnua-Libre" checksum="(null)">
+  </resource>
+
+  <resource identifier="Tnua-Libre Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Trashim CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="TriodPostnaja Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="TwoQ5" checksum="(null)">
+  </resource>
+
+  <resource identifier="Typeface" checksum="(null)">
+  </resource>
+
+  <resource identifier="Unicode BMP Fallback SIL" checksum="(null)">
+  </resource>
+
+  <resource identifier="Unidings" checksum="(null)">
+  </resource>
+
+  <resource identifier="Unifont Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Untitled2" checksum="(null)">
   </resource>
 
   <resource identifier="URW Bookman Light" checksum="(null)">
@@ -4318,7 +5704,19 @@
   <resource identifier="URW Gothic Semi-Bold Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="Varela Round" checksum="(null)">
+  </resource>
+
   <resource identifier="waffle" checksum="(null)">
+  </resource>
+
+  <resource identifier="Weather Icons" checksum="(null)">
+  </resource>
+
+  <resource identifier="Yehuda CLM Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Yehuda CLM Ultra-Light" checksum="(null)">
   </resource>
 
   <resource identifier="Z003 Medium Italic" checksum="(null)">

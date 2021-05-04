@@ -13,6 +13,7 @@ setopt SHARE_HISTORY
 setopt AUTOCD
 setopt CORRECT
 setopt AUTO_MENU
+EDITOR="emacs"
 
 #Plugins
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
@@ -23,9 +24,14 @@ alias ls="exa"
 alias la="exa -a"
 alias ll="exa -l"
 alias lla="exa -a -l"
-alias emacs="emacs -nw"
+alias emacs="emacsclient -c"
 alias esync="~/.emacs.d/bin/doom sync"
-alias inst="sudo pacman -S"
+alias conzsh="$EDITOR $HOME/.zshrc"
+alias doom="$HOME/.emacs.d/bin/doom"
+alias rick="$HOME/scripts/rick.sh"
+alias p="pacman"
+alias sp="sudo pacman"
+alias s="sudo"
 
 #Autocomplete
 #The following lines were added by compinstall

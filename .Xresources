@@ -18,6 +18,5 @@
 *.color7:     #BFBFBF
 *.color15:    #E6E6E6
 
-! Fonts
 URxvt.font: xft:Hack:style=Regular:size=12
 URxvt.scrollBar: false

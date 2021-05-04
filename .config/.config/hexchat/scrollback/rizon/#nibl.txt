@@ -1,0 +1,6 @@
+T 1620025720 19*	Now talking on 22#NIBL
+T 1620025720 22*	Topic for 22#NIBL is: [ XDCC Search: https://nibl.co.uk/ ] [UP] [ Triggers: !help !search !s !request ] [ Have a bot and want access? Contact Jenga! ] [ Follow us @NIBLCO ] [ Discord: https://discord.gg/bUESsAg ] [ Pedo Biden Edition ]
+T 1620025720 22*	Topic for 22#NIBL set by 26Jenga!~Jenga@come.to.butthead (24Thu Jan 14 15:26:53 2021)
+T 1620025721 -18NIBL-	[#NIBL] Welcome to 3,1#NIBL! Why not try out one of our scripts for mIRC or HexChat to filter out XDCC announces to their very own window, cleaning up the spam in the channel! ~ 7,1https://github.com/NIBLCO/niblscripts
+T 1620025778 23*	fou-lu (~fou-lu@46F283B.8A7C2792.4AB762FF.IP23) has joined
+T 1620025780 FiSHLiM plugin unloaded
